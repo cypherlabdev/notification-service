@@ -13,8 +13,28 @@
 **Assignee**: sj@cypherlab.tech
 **Dependencies**: ⬆️ ENG-90 (user-service) + ENG-86 (wallet), ⬇️ None
 
-## Tickets to Create
-1. **[NEW] Implement Email Notifications (P0)** - SendGrid/AWS SES integration
-2. **[NEW] Implement SMS Notifications (P1)** - Twilio integration
-3. **[NEW] Implement Push Notifications (P1)** - Firebase/APNS
-4. **[NEW] Add Notification Templates (P1)** - Template engine
+## Proposed New Tickets (Created in Asana)
+
+### 2. Implement Email Notifications
+**Task ID**: 1211847662875708
+**ENG**: Pending assignment
+**URL**: https://app.asana.com/0/1211254851871080/1211847662875708
+**Priority**: P0
+
+### 3. Implement SMS Notifications
+**Task ID**: 1211847663367944
+**ENG**: Pending assignment
+**URL**: https://app.asana.com/0/1211254851871080/1211847663367944
+**Priority**: P1
+
+### 4. Implement Push Notifications
+**Task ID**: 1211847570142199
+**ENG**: Pending assignment
+**URL**: https://app.asana.com/0/1211254851871080/1211847570142199
+**Priority**: P1
+
+### 5. Add Notification Templates
+**Task ID**: 1211847666941984
+**ENG**: Pending assignment
+**URL**: https://app.asana.com/0/1211254851871080/1211847666941984
+**Priority**: P1
